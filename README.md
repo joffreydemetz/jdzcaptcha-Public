@@ -27,11 +27,19 @@ A PHP icon-based CAPTCHA library. Instead of distorted text or image recognition
 - PHP >= 8.2
 - GD extension
 
+## Acknowledgements
+
+This project was initially inspired by [IconCaptcha v3.1.1](https://github.com/fabianwennink/IconCaptcha-PHP).
+
 ## Contact
 
-This is proprietary software. For licensing, access, or more information:
+This is proprietary software for now - I'm testing it throughout a few of my websites. For more information:
 
 - **Author:** Joffrey Demetz
 - **Email:** joffrey.demetz@gmail.com
 - **Website:** https://joffreydemetz.com
 - **Project page:** https://jdz.joffreydemetz.com/jdzcaptcha
+
+## License
+
+Copyright (c) 2018-present Joffrey Demetz. All rights reserved. See [LICENSE](LICENSE) for details.
